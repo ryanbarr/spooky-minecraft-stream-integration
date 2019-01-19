@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "spookyMinecraftStreamIntegration",
+  "name": "Spooky's Minecraft Stream Integration",
+  "description": "Connect your Minecraft to Twitch and trigger events, give items, send messages, and more for key events.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Spooky"],
+  "credits": "Spooky for developing the mod, Forge for providing the framework.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
